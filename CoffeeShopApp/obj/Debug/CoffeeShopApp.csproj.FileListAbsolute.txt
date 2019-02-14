@@ -1,0 +1,9 @@
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.exe.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\bin\Debug\CoffeeShopApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.CoffeeShopUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.Properties.Resources.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.csproj.GenerateResource.Cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\31 Jan 2019_ day 2\CoffeeShopApp\CoffeeShopApp\obj\Debug\CoffeeShopApp.pdb
